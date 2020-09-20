@@ -19,6 +19,25 @@ There are many ways to style your text with markdown.
 1. Creating your font in **bold**, you will need to add ** at the front and at the end of your word or sentence **. 
 2. Creating your font in *italic*, requires putting * at the front and at the end of your word/sentence *
 3. Creating a crossed out word/sentence such as ~FIXED MINDSET~, you will have to add a ~ at the front and at the end of your word/sentence ~
+4. Emphasizing your text, will only require you to add _**bold**_, so adding a _ at the front and at the end of your word/sentence _ even if the bold or italic styling was on.
+
+### C. Listings and Tables
+Organizing your information is very essential in order for your content to feel legible. 
+You can showcase your content through listings (ordered or unordered) such as the following: 
+Best countries to visit during the summertime:
+1. Maldives
+2. Bora Bora
+3. Thailand 
+This is an ordered listing, you can also create an unordered listing by adding dashes or stars
+- Maldives
+- Bora Bora
+- Thailand
+You need to make sure you put a space after the number or dash.
+
+### D. Images/Links
+Adding images is very important in bringing your web page to life, by adding hints of color as well as visuals for your readers.
+![beach](https://conradhotels3.hilton.com/resources/media/ch/PPTBNCI/en_US/img/shared/full_page_image_gallery/main/CN_resortext_700x525_FitToBoxSmallDimension_Center.jpg)
+ 
 
 
 
