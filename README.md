@@ -4,11 +4,10 @@
 
 ## What is a Markdown?
 
-Markdown is a way to style your content on a web. You control the display of your content by formatting words as bold or italic, adding images, and creating lists and so much more! In other words, designing the content you want your reader to read, and design it in a way that is pleasurable to read. 
+Markdown is a way to *style* your content on a web. You control the display of your content by formatting words as bold or italic, adding images, and creating lists and so much more! In other words, designing the content you want your reader to read, and design it in a way that is pleasurable to read. 
 
 ## Syntax Guide to Markdown
-
-There are several ways for your to display your content. 
+There are several ways for your to display your content in order to make it more pleasurable to read. 
 
 ### A. Headers 
 
@@ -49,7 +48,7 @@ Maldives | Russia
 
 ### D. Images/Links
 
-Adding images is very important in bringing your web page to life, by adding hints of color as well as visuals for your readers.
+Adding images is VERY important in bringing your web page to life, by adding hints of color as well as visuals for your readers.
 ![beach](https://conradhotels3.hilton.com/resources/media/ch/PPTBNCI/en_US/img/shared/full_page_image_gallery/main/CN_resortext_700x525_FitToBoxSmallDimension_Center.jpg)
  
  Links will help your reader go from one page to a specific page where they would get more information depending on the context, for this example I will link a website for the best resorts in Bora Bora
@@ -60,6 +59,10 @@ Adding images is very important in bringing your web page to life, by adding hin
  If you'd like to quote someone, you must first put the > character before the line:
 
 > Bora Bora. One of the most magical places I've visited.
+> - Collin Holloway
+
+Can also add an emphasis to a specific word or sentence such as: 
+> _Bora Bora. One of the most magical places I've visited._
 > - Collin Holloway
 
 ### F. Listings
@@ -73,7 +76,7 @@ Listings are a fun way to create task lists, reminders and so on. For example, b
 
 Linking or mentioning people is an easy way to direct a comment at someone, by simply using the "@" followed by their name. Example: Hey @travelblogger — enjoy your summer vacation!
 
-## GROWTH MINDEST
+# ALL ABOUT THE GROWTH MINDSET
 
 A growth mindest in summary is basically the way one thinks about his capabilities in learning and expanding his knowledge. 
 There are two mindsets: 
@@ -94,7 +97,7 @@ Don't | Do's
 ~ignoring criticism~ | learning from harsh criticism
 ~being threatened by the success of others~ | getting inspired by other's success
 
-The Don't column are behavioral patterns that should be avoided and replaced with the ones on the Do's column.
+The *Don't* column are behavioral patterns that should be avoided and replaced with the ones on the **Do**'s column.
 
 ### Summary of Growth Mindset
 
