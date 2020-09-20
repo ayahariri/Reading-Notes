@@ -107,6 +107,8 @@ I can also add positive comments to my criticism:
 
 This link has 25 features on how one can improve his/her growth skills [growthmindest](https://www.opencolleges.edu.au/informed/features/develop-a-growth-mindset/)
 
+You can check my web page on the following! [README.md](https://ayahariri.github.io/Reading-Notes/.)
+
 
 
 
