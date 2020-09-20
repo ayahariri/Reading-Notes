@@ -37,7 +37,8 @@ This is an ordered listing, you can also create an unordered listing by adding d
 - Thailand
 You need to make sure you put a space after the number or dash.
 
-Tables are also a fun way to display your information or comparison for a specific topic, I will use the example above by using this criteria:ummertime Countries | Winter Countries
+Tables are also a fun way to display your information or comparison for a specific topic, I will use the example above by using this criteria:
+Summertime Countries | Winter Countries
 ------------ | -------------
 Bora Bora | Canada
 Maldives | Russia
@@ -88,7 +89,20 @@ avoiding challenges | embracing challenges
 ignoring criticism | learning from harsh criticism
 being threatened by the success of others | getting inspired by other's success
 
-All in all, it is having a positive mindest into whatever challenges, obstacles that come up your way. Wanting and understanding that you can expand your learning capabilities. Wanting to grow in all aspects of your learning pathway, with the success and failure that come in between. 
+###Summary of Growth Mindset
+
+All in all, growth mindset is implementing a positive mindest into whatever challenge, obstacle, criticism that you face during your process. It is also wanting and understanding that you can expand your learning capabilities. Wanting to grow in all aspects of your learning pathway, with the success and failure that come in between. 
+
+Asking yourself questions through the process is also an important key to keep yourself motivated and on the right path. Questions may vary depending on the obstacle or challenge that you are facing. 
+For example, if someone has given me harsh criticism, instead of letting it be a negative comment, I ask myself:
+1. What went wrong, and how can I make sure it doesn’t happen again?
+2. How can I avoid such criticism in the future?
+I can also add positive comments to my criticism:
+3. What part am I most proud of?
+4. What has the criticism taught me?
+
+This link has 25 features on how one can improve his growth skills [growthmindest](https://www.opencolleges.edu.au/informed/features/develop-a-growth-mindset/)
+
 
 
 
