@@ -90,9 +90,11 @@ There are certain criterias that will help or harm you in trying to adapt the gr
 
 Don't | Do's
 ------|--------
-avoiding challenges | embracing challenges
-ignoring criticism | learning from harsh criticism
-being threatened by the success of others | getting inspired by other's success
+~avoiding challenges~ | embracing challenges
+~ignoring criticism~ | learning from harsh criticism
+~being threatened by the success of others~ | getting inspired by other's success
+
+The Don't column are behavioral patterns that should be avoided and replaced with the Do's
 
 ### Summary of Growth Mindset
 
