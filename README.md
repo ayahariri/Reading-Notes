@@ -44,12 +44,10 @@ In conclusion, ordered list you will have to type in a number or letter followed
 
 Tables are also a fun way to display your information or comparison for a specific topic, I will use the example above by showing the summer countries to visit versus the cold countries:
 
------------------------------------------
 Summertime Countries | Winter Countries
 ------------ | -------------
 Bora Bora | Canada
 Maldives | Russia
-----------------------------
 
 ### D. Images/Links
 
