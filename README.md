@@ -1,5 +1,18 @@
 # Reading-Notes
 
+# ALL ABOUT MASTERING MARKDOWN
+
+## What is a Markdown?
+Markdown is a way to style your content on a web. You control the display of your content by formatting words as bold or italic, adding images, and creating lists and so much more! In other words, designing the content you want your reader to read, and design it in a way that is pleasurable to read. 
+
+## Syntax Guide to Markdown
+
+There are several ways for your to display your content. Headers 
+
+
+
+
+
 
 ## GROWTH MINDEST
 A growth mindest in summary is basically the way one thinks about his capabilities in learning and expanding his knowledge. 
@@ -17,5 +30,9 @@ Don't | Do's
 avoiding challenges | embracing challenges
 ignoring criticism | learning from harsh criticism
 being threatened by the success of others | getting inspired by other's success
+
+All in all, it is having a positive mindest into whatever challenges, obstacles that come up your way. Wanting and understanding that you can expand your learning capabilities. Wanting to grow in all aspects of your learning pathway, with the success and failure that come in between. 
+
+
 
 
