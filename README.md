@@ -37,17 +37,10 @@ This is an ordered listing, you can also create an unordered listing by adding d
 - Thailand
 You need to make sure you put a space after the number or dash.
 
-Tables are also a fun way to display your information or comparison for a specific topic, I will use the example above by using this criteria:First Header | Second Header
+Tables are also a fun way to display your information or comparison for a specific topic, I will use the example above by using this criteria:ummertime Countries | Winter Countries
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-The end result will be completed such as: 
-
-Summertime Countries | Winter Countries
-Bora Bora|Canada
-Maldives|Russia
-Thailand|Holland
+Bora Bora | Canada
+Maldives | Russia
 
 
 ### D. Images/Links
