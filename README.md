@@ -11,10 +11,12 @@ Markdown is a way to style your content on a web. You control the display of you
 There are several ways for your to display your content. 
 
 ### A. Headers 
+
 Headers are very important for your reader to understand the hierarchy of your notes. 
 Headers go from 1# to 6# depending on the importance/size of your title (1# being the highest).
 
 ### B. Styling of your text
+
 There are many ways to style your text with markdown. 
 1. Creating your font in **bold**, you will need to add ** at the front and at the end of your word or sentence **. 
 2. Creating your font in *italic*, requires putting * at the front and at the end of your word/sentence *
@@ -22,6 +24,7 @@ There are many ways to style your text with markdown.
 4. Emphasizing your text, will only require you to add _**bold**_, so adding a _ at the front and at the end of your word/sentence _ even if the bold or italic styling was on.
 
 ### C. Listings and Tables
+
 Organizing your information is very essential in order for your content to feel legible. 
 You can showcase your content through listings (ordered or unordered) such as the following: 
 Best countries to visit during the summertime:
@@ -34,17 +37,44 @@ This is an ordered listing, you can also create an unordered listing by adding d
 - Thailand
 You need to make sure you put a space after the number or dash.
 
+Tables are also a fun way to display your information or comparison for a specific topic, I will use the example above by using this criteria:First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+The end result will be completed such as: 
+
+Summertime Countries | Winter Countries
+Bora Bora|Canada
+Maldives|Russia
+Thailand|Holland
+
+
 ### D. Images/Links
+
 Adding images is very important in bringing your web page to life, by adding hints of color as well as visuals for your readers.
 ![beach](https://conradhotels3.hilton.com/resources/media/ch/PPTBNCI/en_US/img/shared/full_page_image_gallery/main/CN_resortext_700x525_FitToBoxSmallDimension_Center.jpg)
  
  Links will help your reader go from one page to a specific page where they would get more information depending on the context, for this example I will link a website for the best resorts in Bora Bora
  [tripadvisor](https://www.tripadvisor.com/SmartDeals-g311415-zft9672-Bora_Bora_Society_Islands-Hotel-Deals.html)
+ 
+ ### E. Quote
+ 
+ If you'd like to quote someone, you must first put the > character before the line:
 
+> Bora Bora. One of the most magical places I've visited.
+> - Collin Holloway
 
+### F. Listings
+Listings are a fun way to create task lists, reminders and so on. For example, before I travel, I need to make sure I pack all the following:
+- [x] Passport
+- [x] Toothbrush & Toothpaste
+- [x] Clothing
+- [ ] Shoes
 
+### G. Mentions
 
-
+Linking or mentioning people is an easy way to direct a comment at someone, by simply using the "@" followed by their name. Example: Hey @travelblogger — enjoy your summer vacation!
 
 ## GROWTH MINDEST
 
