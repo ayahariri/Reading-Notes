@@ -94,7 +94,7 @@ Don't | Do's
 ~ignoring criticism~ | learning from harsh criticism
 ~being threatened by the success of others~ | getting inspired by other's success
 
-The Don't column are behavioral patterns that should be avoided and replaced with the Do's
+The Don't column are behavioral patterns that should be avoided and replaced with the ones on the Do's column.
 
 ### Summary of Growth Mindset
 
