@@ -5,8 +5,6 @@
 ## What is a Markdown?
 
 Markdown is a way to *style* your content on a web. You are in *control* of the display of your content by formatting words as bold or italic, adding images, and creating lists and so much more! In other words, designing the content you want your reader to read, and design it in a way that is pleasurable to read. 
-![markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png)
-
 
 ## Syntax Guide to Markdown
 There are several ways for your to display your content in order to make it more pleasurable to read. I have explained them below with some examples.
@@ -53,7 +51,11 @@ Maldives | Russia
 ### D. Images/Links
 
 Adding images are **VERY** important in bringing your web page to life, by adding hints of color as well as visuals for your readers.
+#### Bora Bora
 ![beach](https://conradhotels3.hilton.com/resources/media/ch/PPTBNCI/en_US/img/shared/full_page_image_gallery/main/CN_resortext_700x525_FitToBoxSmallDimension_Center.jpg)
+
+#### Maldives
+![beach2](https://pix10.agoda.net/hotelImages/7458162/0/7f4358186315b615d5186aa4a00512ad.jpg?s=1024x768)
  
  Links will help your reader go from one page to a specific page where they would get more information depending on the context, for this example I will link a website for the best resorts in Bora Bora:
  [tripadvisor](https://www.tripadvisor.com/SmartDeals-g311415-zft9672-Bora_Bora_Society_Islands-Hotel-Deals.html)
@@ -114,6 +116,7 @@ Asking yourself questions through the process is also an important key to keep y
 For example, if someone has given me harsh criticism, instead of letting it be a negative comment, I ask myself:
 1. What went wrong, and how can I make sure it doesn’t happen again?
 2. How can I avoid such criticism in the future?
+
 I can also add positive comments to my criticism:
 3. What part am I most proud of?
 4. What has the criticism taught me?
