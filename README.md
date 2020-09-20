@@ -10,8 +10,15 @@ Markdown is a way to style your content on a web. You control the display of you
 
 There are several ways for your to display your content. 
 
-A. Headers are very important for your reader to understand the hierarchy of your notes. 
-Headers go from 1# to 6# depending on the importance/size of your title (1# being the highest). 
+### A. Headers 
+Headers are very important for your reader to understand the hierarchy of your notes. 
+Headers go from 1# to 6# depending on the importance/size of your title (1# being the highest).
+
+### B. Styling of your text
+There are many ways to style your text with markdown. 
+1. Creating your font in **bold**, you will need to add ** at the front and at the end of your word or sentence **. 
+2. Creating your font in *italic*, requires putting * at the front and at the end of your word/sentence *
+3. Creating a crossed out word/sentence such as ~FIXED MINDSET~, you will have to add a ~ at the front and at the end of your word/sentence ~
 
 
 
