@@ -3,6 +3,7 @@
 # ALL ABOUT MASTERING MARKDOWN
 
 ## What is a Markdown?
+
 Markdown is a way to style your content on a web. You control the display of your content by formatting words as bold or italic, adding images, and creating lists and so much more! In other words, designing the content you want your reader to read, and design it in a way that is pleasurable to read. 
 
 ## Syntax Guide to Markdown
@@ -18,6 +19,7 @@ Headers go from 1# to 6# depending on the importance/size of your title (1# bein
 
 
 ## GROWTH MINDEST
+
 A growth mindest in summary is basically the way one thinks about his capabilities in learning and expanding his knowledge. 
 There are two mindsets: 
 1. Fixed mindset
@@ -27,6 +29,7 @@ The image below showcases the differences between both mindsets
 ![differences between both mindsets](https://sites.dartmouth.edu/learning/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
 
 ## The Do's and Don't 
+
 There are certain criterias that will help or harm you in trying to adapt the growth mindest; such as
 Don't | Do's
 ------|--------
