@@ -86,9 +86,9 @@ The image below showcases the differences between both mindsets
 There are certain criterias that will help or harm you in trying to adapt the growth mindest; such as
 Don't | Do's
 ------|--------
-avoiding challenges | embracing challenges
-ignoring criticism | learning from harsh criticism
-being threatened by the success of others | getting inspired by other's success
+avoiding challenges|embracing challenges
+ignoring criticism|learning from harsh criticism
+being threatened by the success of others|getting inspired by other's success
 
 ### Summary of Growth Mindset
 
