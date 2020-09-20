@@ -80,6 +80,7 @@ There are two mindsets:
 The image below showcases the differences between both mindsets 
 ![differences between both mindsets](https://sites.dartmouth.edu/learning/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
 
+
 ## The Do's and Don't 
 
 There are certain criterias that will help or harm you in trying to adapt the growth mindest; such as
@@ -91,7 +92,10 @@ being threatened by the success of others | getting inspired by other's success
 
 ###Summary of Growth Mindset
 
-All in all, growth mindset is implementing a positive mindest into whatever challenge, obstacle, criticism that you face during your process. It is also wanting and understanding that you can expand your learning capabilities. Wanting to grow in all aspects of your learning pathway, with the success and failure that come in between. 
+All in all, growth mindset is implementing a positive mindest into whatever challenge, obstacle, criticism that you face during your process. It is also wanting and understanding that you can expand your learning capabilities. Wanting to grow in all aspects of your learning pathway, with the success and failure that come in between. Failure should never be taken granted of or ignored,
+
+> Don’t worry about failure. Worry about the chances you miss when you don’t even try.
+> - Sherman Finesilver
 
 Asking yourself questions through the process is also an important key to keep yourself motivated and on the right path. Questions may vary depending on the obstacle or challenge that you are facing. 
 For example, if someone has given me harsh criticism, instead of letting it be a negative comment, I ask myself:
@@ -101,7 +105,7 @@ I can also add positive comments to my criticism:
 3. What part am I most proud of?
 4. What has the criticism taught me?
 
-This link has 25 features on how one can improve his growth skills [growthmindest](https://www.opencolleges.edu.au/informed/features/develop-a-growth-mindset/)
+This link has 25 features on how one can improve his/her growth skills [growthmindest](https://www.opencolleges.edu.au/informed/features/develop-a-growth-mindset/)
 
 
 
