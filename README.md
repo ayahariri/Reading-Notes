@@ -4,19 +4,21 @@
 
 ## What is a Markdown?
 
-Markdown is a way to *style* your content on a web. You control the display of your content by formatting words as bold or italic, adding images, and creating lists and so much more! In other words, designing the content you want your reader to read, and design it in a way that is pleasurable to read. 
+Markdown is a way to *style* your content on a web. You are in *control* of the display of your content by formatting words as bold or italic, adding images, and creating lists and so much more! In other words, designing the content you want your reader to read, and design it in a way that is pleasurable to read. 
+![markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png)
 
 ## Syntax Guide to Markdown
-There are several ways for your to display your content in order to make it more pleasurable to read. 
+There are several ways for your to display your content in order to make it more pleasurable to read. I have explained them below with some examples.
 
 ### A. Headers 
 
-Headers are very important for your reader to understand the hierarchy of your notes. 
-Headers go from 1# to 6# depending on the importance/size of your title (1# being the highest).
+*Headers* are very important for your reader to understand the hierarchy of your notes. 
+Headers go from # to ###### (1-6) depending on the importance/size of your title (1# being the highest).
 
 ### B. Styling of your text
 
-There are many ways to style your text with markdown. 
+There are many ways to style your text with markdown:
+
 1. Creating your font in **bold**, you will need to add ** at the front and at the end of your word or sentence **. 
 2. Creating your font in *italic*, requires putting * at the front and at the end of your word/sentence *
 3. Creating a crossed out word/sentence such as ~FIXED MINDSET~, you will have to add a ~ at the front and at the end of your word/sentence ~
@@ -49,16 +51,15 @@ Maldives | Russia
 
 ### D. Images/Links
 
-Adding images is VERY important in bringing your web page to life, by adding hints of color as well as visuals for your readers.
+Adding images are **VERY** important in bringing your web page to life, by adding hints of color as well as visuals for your readers.
 ![beach](https://conradhotels3.hilton.com/resources/media/ch/PPTBNCI/en_US/img/shared/full_page_image_gallery/main/CN_resortext_700x525_FitToBoxSmallDimension_Center.jpg)
  
- Links will help your reader go from one page to a specific page where they would get more information depending on the context, for this example I will link a website for the best resorts in Bora Bora
+ Links will help your reader go from one page to a specific page where they would get more information depending on the context, for this example I will link a website for the best resorts in Bora Bora:
  [tripadvisor](https://www.tripadvisor.com/SmartDeals-g311415-zft9672-Bora_Bora_Society_Islands-Hotel-Deals.html)
  
  ### E. Quote
  
  If you'd like to quote someone, you must first put the > character before the line:
-
 > Bora Bora. One of the most magical places I've visited.
 > - Collin Holloway
 
@@ -67,6 +68,7 @@ Can also add an emphasis to a specific word or sentence such as:
 > - Collin Holloway
 
 ### F. Listings
+
 Listings are a fun way to create task lists, reminders and so on. For example, before I travel, I need to make sure I pack all the following:
 - [x] Passport
 - [x] Toothbrush & Toothpaste
@@ -102,7 +104,7 @@ The *Don't* column are behavioral patterns that should be avoided and replaced w
 
 ### Summary of Growth Mindset
 
-All in all, growth mindset is implementing a positive mindest into whatever challenge, obstacle, criticism that you face during your process. It is also wanting and understanding that you can expand your learning capabilities. Wanting to grow in all aspects of your learning pathway, with the success and failure that come in between. Failure should never be taken granted of or ignored,
+All in all, growth mindset is implementing a *positive mindset* into whatever challenge, obstacle, criticism that you face during your process. It is also wanting and understanding that you can expand your learning capabilities. Wanting to grow in all aspects of your learning pathway, with the success and failure that come in between. Failure should never be taken granted of or ignored,
 
 > "Don’t worry about failure. Worry about the chances you miss when you don’t even try."
 > -Sherman Finesilver
