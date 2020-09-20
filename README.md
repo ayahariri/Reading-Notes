@@ -38,16 +38,18 @@ Best countries to visit during the summertime: (unordered list)
 - Maldives
 - Bora Bora
 - Thailand
+
 You need to make sure you put a space after the number or dash.
 In conclusion, ordered list you will have to type in a number or letter followed by a dot, then a space. An unordered list you will have to type in star or dash followed by a space.
 
 Tables are also a fun way to display your information or comparison for a specific topic, I will use the example above by showing the summer countries to visit versus the cold countries:
 
+-----------------------------------------
 Summertime Countries | Winter Countries
 ------------ | -------------
 Bora Bora | Canada
 Maldives | Russia
-
+----------------------------
 
 ### D. Images/Links
 
