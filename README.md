@@ -27,15 +27,18 @@ There are many ways to style your text with markdown.
 
 Organizing your information is very essential in order for your content to feel legible. 
 You can showcase your content through listings (ordered or unordered) such as the following: 
-Best countries to visit during the summertime:
+
+Best countries to visit during the summertime: (ordered list)
 1. Maldives
 2. Bora Bora
 3. Thailand 
-This is an ordered listing, you can also create an unordered listing by adding dashes or stars
+
+Best countries to visit during the summertime: (unordered list)
 - Maldives
 - Bora Bora
 - Thailand
 You need to make sure you put a space after the number or dash.
+In conclusion, ordered list you will have to type in a number or letter followed by a dot, then a space. An unordered list you will have to type in star or dash followed by a space.
 
 Tables are also a fun way to display your information or comparison for a specific topic, I will use the example above by using this criteria:
 Summertime Countries | Winter Countries
@@ -84,11 +87,12 @@ The image below showcases the differences between both mindsets
 ## The Do's and Don't 
 
 There are certain criterias that will help or harm you in trying to adapt the growth mindest; such as
+
 Don't | Do's
 ------|--------
-avoiding challenges|embracing challenges
-ignoring criticism|learning from harsh criticism
-being threatened by the success of others|getting inspired by other's success
+avoiding challenges | embracing challenges
+ignoring criticism | learning from harsh criticism
+being threatened by the success of others | getting inspired by other's success
 
 ### Summary of Growth Mindset
 
