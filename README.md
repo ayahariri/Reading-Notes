@@ -5,7 +5,8 @@
 ## What is a Markdown?
 
 Markdown is a way to *style* your content on a web. You are in *control* of the display of your content by formatting words as bold or italic, adding images, and creating lists and so much more! In other words, designing the content you want your reader to read, and design it in a way that is pleasurable to read. 
-![markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png | width=100)
+![markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png | width=100x100)
+
 
 ## Syntax Guide to Markdown
 There are several ways for your to display your content in order to make it more pleasurable to read. I have explained them below with some examples.
