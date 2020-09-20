@@ -38,6 +38,8 @@ You need to make sure you put a space after the number or dash.
 Adding images is very important in bringing your web page to life, by adding hints of color as well as visuals for your readers.
 ![beach](https://conradhotels3.hilton.com/resources/media/ch/PPTBNCI/en_US/img/shared/full_page_image_gallery/main/CN_resortext_700x525_FitToBoxSmallDimension_Center.jpg)
  
+ Links will help your reader go from one page to a specific page where they would get more information depending on the context, for this example I will link a website for the best resorts in Bora Bora
+ [tripadvisor](https://www.tripadvisor.com/SmartDeals-g311415-zft9672-Bora_Bora_Society_Islands-Hotel-Deals.html)
 
 
 
