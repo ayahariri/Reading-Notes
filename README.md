@@ -90,12 +90,12 @@ avoiding challenges | embracing challenges
 ignoring criticism | learning from harsh criticism
 being threatened by the success of others | getting inspired by other's success
 
-###Summary of Growth Mindset
+### Summary of Growth Mindset
 
 All in all, growth mindset is implementing a positive mindest into whatever challenge, obstacle, criticism that you face during your process. It is also wanting and understanding that you can expand your learning capabilities. Wanting to grow in all aspects of your learning pathway, with the success and failure that come in between. Failure should never be taken granted of or ignored,
 
-> Don’t worry about failure. Worry about the chances you miss when you don’t even try.
-> - Sherman Finesilver
+> "Don’t worry about failure. Worry about the chances you miss when you don’t even try."
+> -Sherman Finesilver
 
 Asking yourself questions through the process is also an important key to keep yourself motivated and on the right path. Questions may vary depending on the obstacle or challenge that you are facing. 
 For example, if someone has given me harsh criticism, instead of letting it be a negative comment, I ask myself:
