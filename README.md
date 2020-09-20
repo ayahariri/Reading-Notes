@@ -8,4 +8,6 @@ There are two mindsets:
 1. Fixed mindset
 2. Growth mindset 
 
+The image below showcases the differences between both mindsets 
+![differences between both mindsets](https://sites.dartmouth.edu/learning/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
 
