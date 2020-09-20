@@ -7,7 +7,10 @@ Markdown is a way to style your content on a web. You control the display of you
 
 ## Syntax Guide to Markdown
 
-There are several ways for your to display your content. Headers 
+There are several ways for your to display your content. 
+
+A. Headers are very important for your reader to understand the hierarchy of your notes. 
+Headers go from 1# to 6# depending on the importance/size of your title (1# being the highest). 
 
 
 
