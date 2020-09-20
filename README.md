@@ -5,7 +5,7 @@
 ## What is a Markdown?
 
 Markdown is a way to *style* your content on a web. You are in *control* of the display of your content by formatting words as bold or italic, adding images, and creating lists and so much more! In other words, designing the content you want your reader to read, and design it in a way that is pleasurable to read. 
-![markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png)
+![markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png | width=100)
 
 ## Syntax Guide to Markdown
 There are several ways for your to display your content in order to make it more pleasurable to read. I have explained them below with some examples.
@@ -81,7 +81,7 @@ Linking or mentioning people is an easy way to direct a comment at someone, by s
 
 # ALL ABOUT THE GROWTH MINDSET
 
-A growth mindest in summary is basically the way one thinks about his capabilities in learning and expanding his knowledge. 
+A growth mindset in summary is basically the way one thinks about his capabilities in learning and expanding his knowledge. 
 There are two mindsets: 
 1. Fixed mindset
 2. Growth mindset 
@@ -92,7 +92,7 @@ The image below showcases the differences between both mindsets
 
 ## The Do's and Don't 
 
-There are certain criterias that will help or harm you in trying to adapt the growth mindest; such as
+There are certain criteria that will help or harm you in trying to adapt the growth mindset; such as
 
 Don't | Do's
 ------|--------
@@ -117,7 +117,7 @@ I can also add positive comments to my criticism:
 3. What part am I most proud of?
 4. What has the criticism taught me?
 
-This link has 25 features on how one can improve his/her growth skills [growthmindest](https://www.opencolleges.edu.au/informed/features/develop-a-growth-mindset/)
+This link has 25 features on how one can improve his/her growth mindset skills [growthmindset](https://www.opencolleges.edu.au/informed/features/develop-a-growth-mindset/)
 
 You can check my web page on the following! [README.md](https://ayahariri.github.io/Reading-Notes/.)
 
