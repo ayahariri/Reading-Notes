@@ -60,7 +60,7 @@ Adding images are **VERY** important in bringing your web page to life, by addin
  Links will help your reader go from one page to a specific page where they would get more information depending on the context, for this example I will link a website for the best resorts in Bora Bora:
  [tripadvisor](https://www.tripadvisor.com/SmartDeals-g311415-zft9672-Bora_Bora_Society_Islands-Hotel-Deals.html)
  
- ### E. Quote
+### E. Quotations
  
  If you'd like to quote someone, you must first put the > character before the line:
 > Bora Bora. One of the most magical places I've visited.
@@ -86,8 +86,8 @@ Linking or mentioning people is an easy way to direct a comment at someone, by s
 
 A growth mindset in summary is basically the way one thinks about his capabilities in learning and expanding his knowledge. 
 There are two mindsets: 
-**1. Fixed mindset**
-**2. Growth mindset**
+**1. Fixed Mindset**
+**2. Growth Mindset**
 
 The image below showcases the differences between both mindsets 
 ![differences between both mindsets](https://sites.dartmouth.edu/learning/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
