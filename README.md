@@ -20,7 +20,7 @@ There are many ways to style your text with markdown:
 
 1. Creating your font in **bold**, you will need to add ** at the front and at the end of your word or sentence **. 
 2. Creating your font in *italic*, requires putting * at the front and at the end of your word/sentence *
-3. Creating a crossed out word/sentence such as ~FIXED MINDSET~, you will have to add a ~ at the front and at the end of your word/sentence ~
+3. Creating a crossed out word/sentence such as ~HTML~, you will have to add a ~ at the front and at the end of your word/sentence ~
 4. Emphasizing your text, will only require you to add _**bold**_, so adding a _ at the front and at the end of your word/sentence _ even if the bold or italic styling was on.
 
 ### C. Listings and Tables
