@@ -12,7 +12,7 @@ There are several ways for your to display your content in order to make it more
 
 ### A. Headers
 
-*Headers* are very important for your reader to understand the hierarchy of your notes. 
+*Headers* are very important for your reader to understand the hierarchy of your notes.
 Headers go from # to ###### (1-6) depending on the importance/size of your title (1# being the highest).
 
 ### B. Styling of your text

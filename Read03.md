@@ -91,7 +91,7 @@ Untracked files were not in the last snapshot and do not currently reside in the
 
 In order to check the status of a specific file, we need to utilize the following command
 git status
-This information indicates which branch we are on. If it states “working directory clean,” then it means that the files is tracked or modified status at the moment. 
+This information indicates which branch we are on. If it states “working directory clean,” then it means that the files is tracked or modified status at the moment.
 
 ### Step 4: Tracking and Staging a New File
 
