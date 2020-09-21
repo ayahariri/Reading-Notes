@@ -45,13 +45,13 @@ There are three main states for files in Git;
 
 To import an existing project or directory into Git, we will have to follow the steps below by using the Terminal(Mac) or Command Line(Windows/Linux):
 
-** a. Changing the project's directory **
+a. Changing the project's directory
 
 $ cd test (cd = change directory)
 Use the git init command
 $ git init
 
-** b. Tracking the repository file **
+b. Tracking the repository file
 
 $ git add *.c
 $ git add LICENSE
@@ -95,7 +95,7 @@ This information indicates which branch we are on. If it states “working direc
 
 ### Step 4: Tracking and Staging a New File
 
-**Single File**
+#### Single File
 
 Track one file only by using the following format:
 
