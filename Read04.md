@@ -11,7 +11,7 @@ TEXT
    Heading 3
    TEXT
 
-HTML uses elements to describe the structure of your pages.There are several different elements. Each element has an opening tag and a closing tag which are very important in for google to properly understand the rendered page. 
+HTML uses elements to describe the structure of your pages.There are several different elements. Each element has an opening tag and a closing tag which are very important in for google to properly understand the rendered page.
 
 ## Extra Markup
 
@@ -19,10 +19,10 @@ The following are the essential aspects one needs to learn in addition to the pr
 
 - DOCTYPES tell browsers which version of HTML you are using.
 - You can add comments to your code between the <!-- and --> markers.
-- The <div> and <span> elements allow you to group block-level and inline elements together.
-- The <nav> the navigation element
-- <iframes> cut windows into your web pages through which other pages can be displayed.
-- The <meta> tag allows you to supply all kinds of information about your web page.
+- The < div > and < span > elements allow you to group block-level and inline elements together.
+- The < nav > the navigation element
+- < iframes > cut windows into your web pages through which other pages can be displayed.
+- The < meta > tag allows you to supply all kinds of information about your web page.
 - Escape characters are used to include special characters in your pages such as <, >, and ©.
 
 ## HTML5 Layout
