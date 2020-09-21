@@ -1,11 +1,13 @@
 ## Text Editor Reading Notes
 
-### What is a Text Editor?
+### What is a Text Editor
+
 It is one of the most important tools for a software developer. Text Editor is part of a software that you download and install on your computer that will allow you to compose and manage your content.
 
-### What are the most important features in a text editor?
+### What are the most important features in a text editor
 
 The most important features one must pay attention to are the following:
+
 1. code completion;
 2. syntax highlighting;
 3. wide range of themes;
@@ -16,7 +18,6 @@ The most important features one must pay attention to are the following:
 Another great feature that we will come accross with is the code completion which will allow you to start typing, and the code completion
 feature will display possible suggestions based on what you originally typed. This saves you time by providing a choice, rather than allowing
 you to finish typing and possibly encounter typos. You must always make sure that everything is written properly and making sure all tags, brackets, quotation marks are opened and closed in an efficient way.
-
 
 Being able to write your HTML and CSS more efficiently is also a feature it provides. A shorthand language called Emmet will speed up your code writing faster than the usual.
 
