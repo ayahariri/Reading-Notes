@@ -1,15 +1,16 @@
 # Reading-Notes
 
-# ALL ABOUT MASTERING MARKDOWN
+## All about the Markdown
 
-## What is a Markdown?
+## What is a Markdown
 
-Markdown is a way to *style* your content on a web. You are in *control* of the display of your content by formatting words as bold or italic, adding images, and creating lists and so much more! In other words, designing the content you want your reader to read, and design it in a way that is pleasurable to read. 
+Markdown is a way to *style* your content on a web. You are in *control* of the display of your content by formatting words as bold or italic, adding images, and creating lists and so much more! In other words, designing the content you want your reader to read, and design it in a way that is pleasurable to read.
 
 ## Syntax Guide to Markdown
+
 There are several ways for your to display your content in order to make it more pleasurable to read. I have explained them below with some examples.
 
-### A. Headers 
+### A. Headers
 
 *Headers* are very important for your reader to understand the hierarchy of your notes. 
 Headers go from # to ###### (1-6) depending on the importance/size of your title (1# being the highest).
@@ -18,22 +19,24 @@ Headers go from # to ###### (1-6) depending on the importance/size of your title
 
 There are many ways to style your text with markdown:
 
-1. Creating your font in **bold**, you will need to add ** at the front and at the end of your word or sentence **. 
-2. Creating your font in *italic*, requires putting * at the front and at the end of your word/sentence *
+1. Creating your font in **bold**, you will need to add 2* at the front and at the end of your word or sentence.
+2. Creating your font in *italic*, requires putting 1* at the front and at the end of your word/sentence.
 3. Creating a crossed out word/sentence such as ~HTML~, you will have to add a ~ at the front and at the end of your word/sentence ~
-4. Emphasizing your text, will only require you to add _**bold**_, so adding a _ at the front and at the end of your word/sentence _ even if the bold or italic styling was on.
+4. Emphasizing your text, will only require you to add _**bold**_, so adding a 1_ at the front and at the end of your word/sentence, even if the bold or italic styling was on.
 
 ### C. Listings and Tables
 
-Organizing your information is very essential in order for your content to feel legible. 
-You can showcase your content through listings (ordered or unordered) such as the following: 
+Organizing your information is very essential in order for your content to feel legible.
+You can showcase your content through listings (ordered or unordered) such as the following:
 
 Best countries to visit during the summertime: (ordered list)
+
 1. Maldives
 2. Bora Bora
-3. Thailand 
+3. Thailand
 
 Best countries to visit during the summertime: (unordered list)
+
 - Maldives
 - Bora Bora
 - Thailand
@@ -51,28 +54,32 @@ Maldives | Russia
 ### D. Images/Links
 
 Adding images are **VERY** important in bringing your web page to life, by adding hints of color as well as visuals for your readers.
+
 #### Bora Bora
+
 ![beach](https://conradhotels3.hilton.com/resources/media/ch/PPTBNCI/en_US/img/shared/full_page_image_gallery/main/CN_resortext_700x525_FitToBoxSmallDimension_Center.jpg)
 
 #### Canada
+
 ![beach2](https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2018/01/04/18269836-e1574072714201.jpg)
- 
+
  Links will help your reader go from one page to a specific page where they would get more information depending on the context, for this example I will link a website for the best resorts in Bora Bora:
  [tripadvisor](https://www.tripadvisor.com/SmartDeals-g311415-zft9672-Bora_Bora_Society_Islands-Hotel-Deals.html)
- 
+
 ### E. Quotations
- 
+
  If you'd like to quote someone, you must first put the > character before the line:
 > Bora Bora. One of the most magical places I've visited.
-> - Collin Holloway
+> Collin Holloway
 
-Can also add an emphasis to a specific word or sentence such as: 
+Can also add an emphasis to a specific word or sentence such as:
 > _Bora Bora. One of the most magical places I've visited._
-> - Collin Holloway
+> Collin Holloway
 
 ### F. Listings
 
 Listings are a fun way to create task lists, reminders and so on. For example, before I travel, I need to make sure I pack all the following:
+
 - [x] Passport
 - [x] Toothbrush & Toothpaste
 - [x] Clothing
@@ -82,19 +89,18 @@ Listings are a fun way to create task lists, reminders and so on. For example, b
 
 Linking or mentioning people is an easy way to direct a comment at someone, by simply using the "@" followed by their name. Example: Hey @travelblogger — enjoy your summer vacation!
 
-# ALL ABOUT THE GROWTH MINDSET
+## All about the Mindset Growth
 
-A growth mindset in summary is basically the way one thinks about his capabilities in learning and expanding his knowledge. 
-There are two mindsets: 
+A growth mindset in summary is basically the way one thinks about his capabilities in learning and expanding his knowledge.
+There are two mindsets:
+
 1. Fixed Mindset
 2. Growth Mindset
 
-
-The image below showcases the differences between both mindsets 
+The image below showcases the differences between both mindsets
 ![differences between both mindsets](https://sites.dartmouth.edu/learning/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
 
-
-## The Do's and Don't 
+## The Do's and Don't
 
 There are certain criteria that will help or harm you in trying to adapt the growth mindset; such as
 
@@ -113,8 +119,9 @@ All in all, growth mindset is implementing a *positive mindset* into whatever ch
 > "Don’t worry about failure. Worry about the chances you miss when you don’t even try."
 > -Sherman Finesilver
 
-Asking yourself questions through the process is also an important key to keep yourself motivated and on the right path. Questions may vary depending on the obstacle or challenge that you are facing. 
+Asking yourself questions through the process is also an important key to keep yourself motivated and on the right path. Questions may vary depending on the obstacle or challenge that you are facing.
 For example, if someone has given me harsh criticism, instead of letting it be a negative comment, I ask myself:
+
 1. What went wrong, and how can I make sure it doesn’t happen again?
 2. How can I avoid such criticism in the future?
 
@@ -125,10 +132,3 @@ I can also add positive comments to my criticism:
 This link has 25 features on how one can improve his/her growth mindset skills [growthmindset](https://www.opencolleges.edu.au/informed/features/develop-a-growth-mindset/)
 
 You can check my web page on the following! [README.md](https://ayahariri.github.io/Reading-Notes/.)
-
-
-
-
-
-
-
