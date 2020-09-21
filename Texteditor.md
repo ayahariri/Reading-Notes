@@ -48,26 +48,33 @@ Here is an example of a command:
 6. user@bash:
 
 To summarize the command line created above;
-- The first line presents a prompt ( user@bash ). After that we entered a command ( ls ). A command is usually always the first thing to type in order to give an order to whatever is written next. Typically a command is always the first thing you type.
+- The first line presents a prompt(user@bash). After that we entered a command (ls).
+A command is usually always the first thing to type in order to give an order to whatever is written next. Typically a command is always the first thing you type.
 - Lines 2 - 5 are in other words the answer from running the command. Most commands produce output and it will be listed straight under the issuing of the command.
 - The last line presents us with a prompt again. After the command has run and the terminal is ready for you to enter another command the prompt will be displayed. If no prompt is displayed then the command may still be running (you will learn later how to deal with this).
 
 ### The Terminal
 
 The Terminal on a Mac is different from windows/Linux;
-- Applications -> Utilities. An easy way to get to it is the key combination 'command + space' which will bring up Spotlight, then start typing Terminal and it will soon show up. **Mac**
-- Applications -> System or Applications -> Utilities. Alternatively you may be able to 'right-click' on the desktop and there may be an option 'Open in terminal'. **Linus**
+
+- Applications to Utilities.
+An easy way to get to it is the key combination 'command + space' which will bring up Spotlight, then start typing Terminal and it will soon show up. **Mac**
+- Applications to System or Applications -> Utilities.
+Alternatively you may be able to 'right-click' on the desktop and there may be an option 'Open in terminal'. **Linus**
 
 ## THE BASIC NAVIGATION
 
-#### 1. The PWD
+#### 1. The PWD 
+
 Which stands for Print Working Directory tells you what your current or present working directory is.
 
 #### 2. The LS
+
 This command is in charge of showcasing a list for whatever is followed by this command.
 If the square brackets ( [ ] ) appear,it means that those items are optional.
 
 ### 3. The CD
+
 This command is used to move around in the system which stands for change directory. cd [location]
 
 ### What are the differences between the Absolute and Relative Paths?
@@ -79,13 +86,17 @@ Whenever we refer to a file or directory, we can, in fact, use either type of pa
 - Relative paths specify a location (file or directory) in relation to where we currently are in the system. They will not begin with a slash.
 
 ### Some Shortcuts
+
 - ~ (tilde) - This is a shortcut for your home directory.
 - . (dot) - This is a reference to your current directory.
 - .. (dotdot)- This is a reference to the parent directory.
 
 **file**
+
 - obtain information about what type of file a file or directory is.
+
 **ls -a**
+
 - List the contents of a directory, including hidden files.
 
 *Everything is a file under Linux, such as directories.*
@@ -93,5 +104,3 @@ Linux is an extensionless system. Files can have any extension they like or none
 
 You can find more details on the following link : [moreaboutfiles](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 You can also find my web page on the following link : [TextEditorReadme](https://ayahariri.github.io/TextEditor/)
-
-
