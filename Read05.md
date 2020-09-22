@@ -58,3 +58,5 @@ There are 3 different ways in which we can use the CSS;
 ### What are CSS Selectors and how are they useful
 
 There are many different types of CSS selector that allow you to target rules to specific elements in an HTML document. CSS selectors are case sensitive, so they must match element names and attribute values exactly. Click [Here](https://farhad-hossain.com/farhad/public/assets/blogsImages/1562857201.png)
+
+[View my link]{https://ayahariri.github.io/Reading-Notes/Read05}
