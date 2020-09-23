@@ -26,14 +26,14 @@ Another feature is the syntax highlighting, which is a feature that takes the te
 ### Third Party options
 
 There are numerous third-party options that one can use such as:
-- Notepad++,
+
+- Notepad(++)
 - Text Wrangler,
 - BB Edit,
 - Visual Studio Code,
 - Atom,
 - Brackets,
 - Sublime Text.
-
 
 ## THE COMMAND LINE
 
@@ -49,6 +49,7 @@ Here is an example of a command:
 6. user@bash:
 
 To summarize the command line created above;
+
 - The first line presents a prompt(user@bash). After that we entered a command (ls).
 A command is usually always the first thing to type in order to give an order to whatever is written next. Typically a command is always the first thing you type.
 - Lines 2 - 5 are in other words the answer from running the command. Most commands produce output and it will be listed straight under the issuing of the command.
@@ -65,12 +66,10 @@ Alternatively you may be able to 'right-click' on the desktop and there may be a
 
 ## THE BASIC NAVIGATION
 
-#### 1. The PWD 
-
+**1.The PWD**
 Which stands for Print Working Directory tells you what your current or present working directory is.
 
-#### 2. The LS
-
+**2.The LS**
 This command is in charge of showcasing a list for whatever is followed by this command.
 If the square brackets ( [ ] ) appear,it means that those items are optional.
 
@@ -78,7 +77,7 @@ If the square brackets ( [ ] ) appear,it means that those items are optional.
 
 This command is used to move around in the system which stands for change directory. cd [location]
 
-### What are the differences between the Absolute and Relative Paths?
+### What are the differences between the Absolute and Relative Paths
 
 Whenever we refer to a file or directory we are using one of these paths.
 Whenever we refer to a file or directory, we can, in fact, use either type of path (either way, the system will still be directed to the same location).
@@ -92,13 +91,9 @@ Whenever we refer to a file or directory, we can, in fact, use either type of pa
 - . (dot) - This is a reference to your current directory.
 - .. (dotdot)- This is a reference to the parent directory.
 
-**file**
+**file** - obtain information about what type of file a file or directory is.
 
-- obtain information about what type of file a file or directory is.
-
-**ls -a**
-
-- List the contents of a directory, including hidden files.
+**ls -a** - List the contents of a directory, including hidden files.
 
 *Everything is a file under Linux, such as directories.*
 Linux is an extensionless system. Files can have any extension they like or none at all.
