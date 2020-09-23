@@ -20,7 +20,7 @@ if (score >) {
 
 Booleans are the results of the evaluation of a situation by comparing one value in the script to what you expect it would be.
 
-Want to know the 4 different boolean results, [check me out](https://www.lotame.com/wp-content/uploads/2018/11/BooleanLogic-700x350.png)
+Want to know the 4 different boolean results, ![check me out](https://www.lotame.com/wp-content/uploads/2018/11/BooleanLogic-700x350.png)
 
 Booleans are usually an outcome from using if/else statements.
 In the JavaScript below;
