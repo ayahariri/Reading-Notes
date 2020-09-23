@@ -99,4 +99,4 @@ Whenever we refer to a file or directory, we can, in fact, use either type of pa
 Linux is an extensionless system. Files can have any extension they like or none at all.
 
 You can find more details on the following link : [moreaboutfiles](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
-You can also find my web page on the following link : [TextEditorReadme](https://ayahariri.github.io/TextEditor/)
+You can also find my web page on the following link : [TextEditorReadme](https://ayahariri.github.io/Reading-Notes/Readte)
