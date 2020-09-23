@@ -61,11 +61,11 @@ $ git commit -m “any message here”
 
 You can also copy an existing Git repository from a particular server by using the clone command with a repository’s URL:
 
-$ git clone https://github.com/test
+$ git clone [git clone](https://github.com/test)
 
 To clone a repository into a directory with another name of your choosing, use the following command format:
 
-$ git clone https://github.com/test mydirectory
+$ git clone [mydirectory](https://github.com/test)
 
 ## Local Repository Structure
 

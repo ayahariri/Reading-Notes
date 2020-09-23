@@ -80,3 +80,5 @@ that have been grouped together because they perform a specific task.
 [Basic Functions](https://www.10bestdesign.com/blog/content/images/2019/03/181.jpg)
 
 - Objects & Built-in objects
+
+[ReadMe07](https://ayahariri.github.io/Reading-Notes/Read07)

@@ -19,7 +19,7 @@ CSS is a tool where you are in control to design every aspect of the content. Th
 
 These variables contain specifications that are controllable.
 
-#### Boxes
+### Boxes
 
 Boxes refers to the Width and height, borders (color, width, and style),background color and images position in the browser window.
 
